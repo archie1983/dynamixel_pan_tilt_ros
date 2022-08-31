@@ -1,0 +1,3 @@
+[submodule "src/dynamixel_pan_tilt"]
+	path = src/dynamixel_pan_tilt
+	url = https://github.com/archie1983/dynamixel_pan_tilt
