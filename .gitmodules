@@ -10,3 +10,6 @@
 [submodule "src/dynamixel-workbench-msgs"]
 	path = src/dynamixel-workbench-msgs
 	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs
+[submodule "src/ROS-TCP-Endpoint"]
+	path = src/ROS-TCP-Endpoint
+	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint
