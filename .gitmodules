@@ -1,3 +1,12 @@
 [submodule "src/dynamixel_pan_tilt"]
 	path = src/dynamixel_pan_tilt
 	url = https://github.com/archie1983/dynamixel_pan_tilt
+[submodule "src/DynamixelSDK"]
+	path = src/DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK
+[submodule "src/dynamixel-workbench"]
+	path = src/dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench
+[submodule "src/dynamixel-workbench-msgs"]
+	path = src/dynamixel-workbench-msgs
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs
